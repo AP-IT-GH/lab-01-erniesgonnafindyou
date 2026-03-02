@@ -1,0 +1,33 @@
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]serSettings/
+**/[Rr]esults/
+**/[Mm]lagents/results/
+
+# Memory dumps
+*.kdmp
+*.pdm
+*.mdmp
+*.unitypackage
+
+# Visual Studio / Rider temp files
+.vs/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crashlytics
+crashlytics-build.properties
